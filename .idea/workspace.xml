@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27cd78b8-8cac-4ee4-b89a-d6e86d27a319" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSafe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeSafe/NumberGuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +33,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATMInterface.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
+    "Application.StudentManagementSystemUI.executor": "Run",
     "Application.WordCounter.executor": "Run",
     "Application.WordCounterGUI.executor": "Run",
     "Application.codeSafe.WordCounterGUI.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/rohini/SpringInitilizer/codSoft1",
     "settings.editor.selected.configurable": "reference.settings.project.maven.testRunning"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.codeSafe.WordCounterGUI">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.ATMInterface.Main">
+    <configuration name="ATMInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATMInterface.Main" />
       <module name="CodeSafe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ATMInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeSafe.NumberGuessingGame" />
+    <configuration name="StudentManagementSystemUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentManegmentSystem.StudentManagementSystemUI" />
       <module name="CodeSafe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeSafe.*" />
+          <option name="PATTERN" value="StudentManegmentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATMInterface.Main" />
+        <item itemvalue="Application.StudentManagementSystemUI" />
         <item itemvalue="Application.codeSafe.WordCounterGUI" />
         <item itemvalue="Application.WordCounterGUI" />
         <item itemvalue="Application.WordCounter" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NumberGuessingGame" />
       </list>
     </recent_temporary>
   </component>
